@@ -1,4 +1,24 @@
-ANALYSIS AND PREDICTION OF BANK TERM DEPOSIT CUSTOMER SUBSCRIPTION
+# Bank Term Deposit Prediction
+
+End-to-end machine learning project predicting customer subscription to bank term 
+deposits using EDA, feature engineering, and classification models on the 
+Portuguese bank marketing dataset.
+
+## Objectives
+
+- Identify features most predictive of term deposit subscriptions
+- Develop a classification model with optimised hyperparameters
+- Explore how marketing campaign success varies across demographic groups
+- Identify temporal trends and customer subgroups for targeted campaigns
+
+## Tech Stack
+
+- Python
+- scikit-learn
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Jupyter Notebook
+  
 INTRODUCTION
 
 The importance of effective and efficient marketing strategies in the banking industry cannot be overemphasized. As financial institutions strive to attract and retain customers, the ability to identify and target individuals who are most likely to engage with their products and services becomes paramount. The utilization of data-driven approaches and advanced analytics techniques continues to be as a valuable tool for improving marketing campaign outcomes and enhancing overall success rates.
